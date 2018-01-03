@@ -12,7 +12,7 @@
 
 	<div class="pk-system-messages"></div>
 
-	<h1 class="uk-h2 uk-text-center" style="margin-top:-100px;">文件上传</h1>
+	<h1 class="uk-h2 uk-text-center" style="margin-top:-100px;">文件上传</h1> 
 	<div class="pk-system-messages"></div>
 
 	 <div class="container-main">
